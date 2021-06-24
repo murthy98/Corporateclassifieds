@@ -9,4 +9,4 @@ For building and running the application you need,
 * Build the project using mvn clean install
 * Run using mvn spring-boot:run
 * The web application is accessible via localhost:9050/userlogin
-* Use username and password as 'arya' to login
+* Use username and password as 'murthy' to login
